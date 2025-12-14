@@ -2,7 +2,7 @@
     width: 100%;
     min-height: 100vh;
     text-align: center;
-    padding: 10rem 8rem;
+    padding: 10rem 4rem;
     position: relative;
 }
 
@@ -46,5 +46,5 @@
 
 .time a + p + i {
     right: 8rem;
-    top: 22rem;
+    top: 24rem;
 }
