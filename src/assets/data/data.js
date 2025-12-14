@@ -10,7 +10,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Imas Samsiah',
+            name: 'Imas Samsiah S.Pd',
             child: 'Putri ke 5',
             father: 'H. Komarudin (Alm.)',
             mother: 'Hj. Khodijah (Almh.)',
@@ -81,7 +81,7 @@ export const data = {
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Imas Samsiah',
             icon: './src/assets/images/bca.png',
             rekening: '1832700007'
         },
